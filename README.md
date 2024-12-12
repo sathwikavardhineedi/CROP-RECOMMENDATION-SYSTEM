@@ -20,7 +20,6 @@ The Crop Recommendation System is a machine learning project designed to assist 
 ### Prerequisites
 - Python 3.8 or later
 - Virtual environment (recommended)
-- Required libraries (listed in `requirements.txt`)
 
 ### Steps
 1. Clone the repository:
@@ -36,20 +35,6 @@ The Crop Recommendation System is a machine learning project designed to assist 
    python -m venv env
    source env/bin/activate  # On Windows: .\env\Scripts\activate
    ```
-4. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-5. Run the application:
-   ```bash
-   python app.py
-   ```
-
-## Usage
-1. Launch the application by running the `app.py` file.
-2. Enter the required soil and environmental parameters.
-3. Click on the Submit button to get crop recommendations.
-4. View the recommended crops on the screen.
 
 ## Dataset
 - Source: Kaggle
