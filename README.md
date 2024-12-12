@@ -13,7 +13,7 @@ The Crop Recommendation System is a machine learning project designed to assist 
   - Machine Learning: Scikit-learn, NumPy, Pandas
   - Data Visualization: Matplotlib, Seaborn
 - Model Used: Random Forest Classifier, SVM, KNN
-- Dataset: Publicly available agricultural dataset (e.g., [Kaggle Dataset](https://www.kaggle.com/datasets))
+- Dataset: Crop recommendation dataset from kaggle
 
 ## Installation
 
